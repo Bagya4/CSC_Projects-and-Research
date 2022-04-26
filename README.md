@@ -4,9 +4,9 @@ Java Projects:
 
 Data Structures: Implementation of data structures such as Sets, Maps, Graphs, Trees, etc. from scratch
 
-product_backlog- is a project that keeps track of a product, its development stages and tasks associated with it.
+Product_Backlog- is a project that keeps track of a product, its development stages and tasks associated with it.
 
-stp- is a project that helps to manage System Test Plans and associated test cases for a program.
+System_Test_Plan_Manager- is a project that helps to manage System Test Plans and associated test cases for a program.
 
 Wolf Scheduler- replicates the University course scheduling system.
 
