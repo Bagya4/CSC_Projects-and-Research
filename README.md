@@ -2,13 +2,12 @@
 
 Java Projects:
 
-Data Structures: Implementation of data structures such as Sets, Maps, Graphs, Trees, etc. from scratch
-
 Product_Backlog- is a project that keeps track of a product, its development stages and tasks associated with it.
+                - GUI was provided
 
 System_Test_Plan_Manager- is a project that helps to manage System Test Plans and associated test cases for a program.
+                        - GUI was provided
 
-Wolf Scheduler- replicates the University course scheduling system.
 
 C Projects:
 
